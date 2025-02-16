@@ -1,5 +1,5 @@
 # dual_camera_vision
-it's the project i did in the GEARS program held by NCSU.
+it's the project i did in the GEARS program held by NCSU.  
 in a word this code use two cameras to detect the depth of the object
 and of course you get to choose the object.  
 when first thinking about how to tackle it, there are few matlab code on git, so i decided to upload mine when mine's finished.
