@@ -1,0 +1,1 @@
+save('stereoParams.mat', 'stereoParams');
